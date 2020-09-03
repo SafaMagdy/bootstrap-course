@@ -77,9 +77,9 @@ body{
 
 .modal-header {
     background-color: $background-dark;
-    color: #fffaf0;
-    button {
-        color: #fffaf0;
+    color: floralwhite;
+    .close {
+        color: floralwhite;
     }
 }
 
